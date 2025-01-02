@@ -1,0 +1,1 @@
+This project analyzes a publicly available dataset that represents a page-to-page graph of verified Facebook pages, providing a unique opportunity to explore the structure and interactions of mutual connections among official pages on one of the world’s largest social media platforms.
